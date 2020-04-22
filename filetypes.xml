@@ -5,6 +5,7 @@
       <mapping pattern="issues" type="PLAIN_TEXT" />
       <mapping pattern="fasil" type="PLAIN_TEXT" />
       <mapping pattern="uml" type="PLAIN_TEXT" />
+      <mapping pattern="DockerFile" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
