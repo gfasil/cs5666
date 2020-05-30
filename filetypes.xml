@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="input" type="PLAIN_TEXT" />
       <mapping pattern="notes" type="PLAIN_TEXT" />
       <mapping pattern="issues" type="PLAIN_TEXT" />
       <mapping pattern="fasil" type="PLAIN_TEXT" />
