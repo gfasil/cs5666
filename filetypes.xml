@@ -4,6 +4,7 @@
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern="input2" type="PLAIN_TEXT" />
+      <mapping pattern="dockerFile" type="PLAIN_TEXT" />
       <mapping pattern="input" type="PLAIN_TEXT" />
       <mapping pattern="notes" type="PLAIN_TEXT" />
       <mapping pattern="issues" type="PLAIN_TEXT" />
